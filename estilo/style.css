@@ -92,6 +92,8 @@ main { /*Confuguração de estilo para conteúdo principal do site*/
     padding: 20px; /*Preenchimento do corpo com 20px*/
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.438); /*Sombras na caixa do corpo*/
     border-radius: 0px 0px 15px 15px; /*Bordas arredondadas (somente em baixo)*/
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
 }
 
 main h1 { /*Confuguração de estilo para todos os títulos h1 dentro do corpo principal do site*/
